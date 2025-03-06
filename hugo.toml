@@ -1,0 +1,4 @@
+baseURL = 'ptrciafae.github.io/'
+languageCode = 'en-us'
+title = 'Attempts'
+theme = 'anatole'
