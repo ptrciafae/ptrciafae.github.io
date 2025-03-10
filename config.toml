@@ -1,0 +1,36 @@
+
+[params]
+title = "Refactoring In Progress"
+author = "Patricia"
+description = "Better than yesterday"
+profilePicture = "images/profile.jpeg"
+
+[[params.socialIcons]]
+icon = "fab fa-linkedin"
+title = "Linkedin"
+url = "https://www.linkedin.com/in/patriciabalaquiao/"
+
+[[params.socialIcons]]
+icon = "fas fa-envelope"
+title = "e-mail"
+url = "mailto:mail@patricia.balaquiao@gmail.com"
+
+[menu]
+
+  [[menu.main]]
+  name = "Home"
+  identifier = "home"
+  weight = 100
+  url = "/"
+
+  [[menu.main]]
+  name = "TIL"
+  weight = 200
+  identifier = "til"
+  url = "/til/"
+
+  [[menu.main]]
+  name = "About"
+  weight = 300
+  identifier = "about"
+  url = "/about/"
