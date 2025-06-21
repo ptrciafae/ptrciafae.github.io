@@ -2,23 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tils on Refactoring In Progress</title>
-    <link>//localhost:1313/til/</link>
+    <link>blog.ptrciafae.dev/til/</link>
     <description>Recent content in Tils on Refactoring In Progress</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 14 Jan 2024 07:07:07 +0100</lastBuildDate><atom:link href="//localhost:1313/til/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 21 Jun 2025 16:59:42 +0800</lastBuildDate>
+    <atom:link href="blog.ptrciafae.dev/til/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>My First Post</title>
-      <link>//localhost:1313/til/my-first-post/</link>
-      <pubDate>Sun, 14 Jan 2024 07:07:07 +0100</pubDate>
-      
-      <guid>//localhost:1313/til/my-first-post/</guid>
-      
-        <description>&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;
-&lt;p&gt;This is &lt;strong&gt;bold&lt;/strong&gt; text, and this is &lt;em&gt;emphasized&lt;/em&gt; text.&lt;/p&gt;
-&lt;p&gt;Visit the &lt;a href=&#34;https://gohugo.io&#34;&gt;Hugo&lt;/a&gt; website!&lt;/p&gt;</description>
-      
+      <title>001 Setting Up a Custom Domain for Your Hugo Blog Hosted on GitHub Pages</title>
+      <link>blog.ptrciafae.dev/til/001-about-this-blog/</link>
+      <pubDate>Sat, 21 Jun 2025 16:59:42 +0800</pubDate>
+      <guid>blog.ptrciafae.dev/til/001-about-this-blog/</guid>
+      <description>&lt;p&gt;It’s been a month since I got laid off—and what a ride it’s been.&lt;/p&gt;&#xA;&lt;p&gt;After returning from a soul-stirring pilgrimage (more on that in a future post), I’m finally kicking off this blog to document the deep dives, detours, and rabbit holes I find myself exploring as I learn, unlearn, and rebuild.&lt;/p&gt;&#xA;&lt;p&gt;For a first post, I&amp;rsquo;ll detail how I setup this blog.&lt;/p&gt;&#xA;&lt;h1 id=&#34;setting-up-a-custom-domain-for-your-blog-hosted-on-github-pages&#34;&gt;Setting Up a Custom Domain for Your Blog Hosted on GitHub Pages&lt;/h1&gt;&#xA;&lt;p&gt;Using &lt;a href=&#34;https://pages.github.com/&#34;&gt;GitHub Pages&lt;/a&gt;, &lt;a href=&#34;https://namecheap.com/&#34;&gt;Namecheap&lt;/a&gt;, &lt;a href=&#34;https://aws.amazon.com/route53/&#34;&gt;Route 53&lt;/a&gt;, and &lt;a href=&#34;https://developer.hashicorp.com/terraform&#34;&gt;Terraform&lt;/a&gt;&lt;/p&gt;</description>
     </item>
-    
   </channel>
 </rss>
