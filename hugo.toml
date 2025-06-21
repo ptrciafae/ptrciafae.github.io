@@ -1,4 +1,4 @@
-baseURL = 'ptrciafae.github.io'
+baseURL = 'blog.ptrciafae.dev'
 languageCode = 'en-us'
 title = 'Refactoring In Progress'
 theme = 'anatole'
