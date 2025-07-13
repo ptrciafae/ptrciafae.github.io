@@ -16,7 +16,6 @@ title = "e-mail"
 url = "mailto:mail@patricia.balaquiao@gmail.com"
 
 [menu]
-
   [[menu.main]]
   name = "Home"
   identifier = "home"
@@ -34,3 +33,7 @@ url = "mailto:mail@patricia.balaquiao@gmail.com"
   weight = 300
   identifier = "about"
   url = "/about/"
+
+[taxonomies]
+  category = 'categories'
+  tag = 'tags'

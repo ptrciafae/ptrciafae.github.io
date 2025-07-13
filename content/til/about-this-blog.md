@@ -1,9 +1,9 @@
 +++
 date = '2025-06-21T16:59:42+08:00'
 draft = false
-tag = ["programming"]
-category = ["blog"]
-title = '001 Setting Up a Custom Domain for Your Hugo Blog Hosted on GitHub Pages'
+tags = ["programming"]
+categories = ["dev"]
+title = 'Setting Up a Custom Domain for Your Hugo Blog Hosted on GitHub Pages'
 +++
 
 It’s been a month since I got laid off—and what a ride it’s been.
