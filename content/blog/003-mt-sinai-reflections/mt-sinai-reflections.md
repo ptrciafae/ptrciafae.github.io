@@ -4,7 +4,7 @@ draft = false
 tags = ["faith", "pilgrimage"]
 categories = ["life"]
 title = 'Mt Sinai Reflections'
-thumbnail= "images/mt-sinai-reflections/mt-sinai-sunrise-1.JPG"
+thumbnail= "images/mt-sinai-sunrise-1.JPG"
 +++
 
 The morning after our grueling Mt. Sinai trek, Ate Cathy, whom I sat beside at breakfast, asked if I could share my thoughts about the climb with the group. I gave a noncommittal answer, even though I’d already begun organizing my reflections the moment we started our descent.
@@ -27,11 +27,11 @@ Through the Mt. Sinai climb, I rediscovered how much I miss trekking. Most of th
 
 The beauty of nature surrounded us during the climb. Jump-off at 3 a.m. meant we were walking under a canopy of stars. Such a sight is missed in the city; in Singapore, the night is never pitch black. Even without being a huge astronomy nerd—though I _did_ write “astronomer” as my ambition in my grade school yearbook—one couldn’t help but be enchanted by the sight of the Milky Way twinkling.
 
-![Mt. Sinai night](mt-sinai-night.JPG)
+![Mt. Sinai night](../mt-sinai-night.JPG)
 
 I love climbing the lush and verdant Philippine mountains. They provide shade when the sun hangs high, and the view of rolling green hills is refreshing after a sweaty ascent. Mt. Sinai, on the other hand, is dry, barren, _ancient_. The rocks seem carved by time itself. It felt like walking through the pages of Genesis. Strange, sacred, and beautiful in a way I didn’t expect. (I may have shed a tear while climbing the last of the 750 steps to the summit— from the beauty! Not from exhaustion.)
 
-![Mt. Sinai rocks](mt-sinai-sunrise-2.JPG)
+![Mt. Sinai rocks](../mt-sinai-sunrise-2.JPG)
 
 Thankfully, despite the lack of tree cover, the air was cool enough that we didn’t need shade during the climb.
 
@@ -41,7 +41,7 @@ I had also forgotten the warmth of strangers on a climb. Even half-asleep, compl
 
 What a world it would be if we treated each other as if we’re on a climb—if we gave kindness as freely.
 
-![Mt. Sinai rocks](mt-sinai-sunrise-1.JPG)
+![Mt. Sinai rocks](../mt-sinai-sunrise-1.JPG)
 
 ### God’s Promise
 
