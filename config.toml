@@ -23,10 +23,10 @@ url = "mailto:mail@patricia.balaquiao@gmail.com"
   url = "/"
 
   [[menu.main]]
-  name = "TIL"
+  name = "Blog"
   weight = 200
-  identifier = "til"
-  url = "/til/"
+  identifier = "blog"
+  url = "/blog/"
 
   [[menu.main]]
   name = "About"
@@ -37,3 +37,6 @@ url = "mailto:mail@patricia.balaquiao@gmail.com"
 [taxonomies]
   category = 'categories'
   tag = 'tags'
+
+[security]
+  enableInlineShortcodes = true
