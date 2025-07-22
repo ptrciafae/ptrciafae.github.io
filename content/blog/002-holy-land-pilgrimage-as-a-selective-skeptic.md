@@ -1,7 +1,7 @@
 +++
 date = '2025-07-15T13:21:51+08:00'
 draft = false
-tags = ["faith"]
+tags = ["faith", "pilgrimage"]
 categories = ["life"]
 title = 'Holy Land Pilgrimage as a Selective Skeptic'
 +++
